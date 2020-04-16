@@ -1,1 +1,1 @@
-# dice-stimulator
+# python basic projects
